@@ -1,4 +1,4 @@
-module go-web-demo7
+module github.com/haha/gin-web
 
 go 1.15
 
